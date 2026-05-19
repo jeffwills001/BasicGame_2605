@@ -19,5 +19,8 @@
 			"Name": "AIAssistant",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
