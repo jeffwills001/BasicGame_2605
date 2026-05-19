@@ -8,3 +8,7 @@ Content/LevelPrototyping
 Content/ThirdPerson
 __ExternalActors__
 __ExternalObjects__
+Binaries
+Build
+.idea
+.vs
