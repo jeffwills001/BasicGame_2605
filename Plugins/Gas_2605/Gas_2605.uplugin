@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Gas_2605",
+	"Description": "Gameplay Ability System",
+	"Category": "Other",
+	"CreatedBy": "Jeffrey Wills",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Gas_2605",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
